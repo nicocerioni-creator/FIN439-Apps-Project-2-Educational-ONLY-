@@ -1,5 +1,9 @@
 # Portfolio learning app
 
+## Educational and research use only
+
+This project, including its code, data, models, analyses, and outputs, is for educational and research purposes only. It does not constitute investment, financial, legal, tax, or other professional advice, or a recommendation or solicitation to buy or sell any security. Assumptions, estimates, and historical results may be incomplete or inaccurate and do not guarantee future performance. Do not rely on this project as the basis for real-world investment or financial decisions.
+
 `app.py` imports the Meridian inputs, grid search, and CSV estimator from `portfolio.py`. This Lab 15 version includes the additions made October 22, 2026. Lab 14 retains its original engine without these additions; both versions preserve the original command-line output.
 
 ## Run from the AI Finance 2026 folder
