@@ -1,0 +1,419 @@
+{
+  "decision_date": "2026-03-31",
+  "cutoff_rule": "published <= decision date",
+  "archive_cutoff": "2026-10-29",
+  "source_sha256": "d6ceab1522deb5eea0ea036c4982a55c9edbe16e01ace996d1a7628e85aa5919",
+  "counts": {
+    "input_rows": 50,
+    "future_publications_excluded": 7,
+    "superseded_versions_excluded": 23,
+    "selected_numeric_values": 19,
+    "retained_missing_markers": 1,
+    "same_day_numeric_values": 0
+  },
+  "timing_limit": "Daily availability only. Verify release time before any same-day trade; use --prior-day-only otherwise.",
+  "rows": [
+    {
+      "source_data_row": 1,
+      "Series name": "CPIAUCSL \u2014 Consumer Price Index for All Urban Consumers: All Items in U.S. City Average",
+      "Month measured": "2024-07",
+      "Published on": "2024-08-14",
+      "Value": "313.534",
+      "status": "excluded: superseded by another knowable publication"
+    },
+    {
+      "source_data_row": 2,
+      "Series name": "CPIAUCSL \u2014 Consumer Price Index for All Urban Consumers: All Items in U.S. City Average",
+      "Month measured": "2024-07",
+      "Published on": "2025-02-12",
+      "Value": "313.566",
+      "status": "excluded: superseded by another knowable publication"
+    },
+    {
+      "source_data_row": 3,
+      "Series name": "CPIAUCSL \u2014 Consumer Price Index for All Urban Consumers: All Items in U.S. City Average",
+      "Month measured": "2024-07",
+      "Published on": "2026-02-13",
+      "Value": "313.569",
+      "status": "selected: latest knowable numeric value"
+    },
+    {
+      "source_data_row": 4,
+      "Series name": "CPIAUCSL \u2014 Consumer Price Index for All Urban Consumers: All Items in U.S. City Average",
+      "Month measured": "2024-08",
+      "Published on": "2024-09-11",
+      "Value": "314.121",
+      "status": "excluded: superseded by another knowable publication"
+    },
+    {
+      "source_data_row": 5,
+      "Series name": "CPIAUCSL \u2014 Consumer Price Index for All Urban Consumers: All Items in U.S. City Average",
+      "Month measured": "2024-08",
+      "Published on": "2025-02-12",
+      "Value": "314.131",
+      "status": "excluded: superseded by another knowable publication"
+    },
+    {
+      "source_data_row": 6,
+      "Series name": "CPIAUCSL \u2014 Consumer Price Index for All Urban Consumers: All Items in U.S. City Average",
+      "Month measured": "2024-08",
+      "Published on": "2026-02-13",
+      "Value": "314.062",
+      "status": "selected: latest knowable numeric value"
+    },
+    {
+      "source_data_row": 7,
+      "Series name": "CPIAUCSL \u2014 Consumer Price Index for All Urban Consumers: All Items in U.S. City Average",
+      "Month measured": "2024-09",
+      "Published on": "2024-10-10",
+      "Value": "314.686",
+      "status": "excluded: superseded by another knowable publication"
+    },
+    {
+      "source_data_row": 8,
+      "Series name": "CPIAUCSL \u2014 Consumer Price Index for All Urban Consumers: All Items in U.S. City Average",
+      "Month measured": "2024-09",
+      "Published on": "2025-02-12",
+      "Value": "314.851",
+      "status": "excluded: superseded by another knowable publication"
+    },
+    {
+      "source_data_row": 9,
+      "Series name": "CPIAUCSL \u2014 Consumer Price Index for All Urban Consumers: All Items in U.S. City Average",
+      "Month measured": "2024-09",
+      "Published on": "2026-02-13",
+      "Value": "314.732",
+      "status": "selected: latest knowable numeric value"
+    },
+    {
+      "source_data_row": 10,
+      "Series name": "CPIAUCSL \u2014 Consumer Price Index for All Urban Consumers: All Items in U.S. City Average",
+      "Month measured": "2024-10",
+      "Published on": "2024-11-13",
+      "Value": "315.454",
+      "status": "excluded: superseded by another knowable publication"
+    },
+    {
+      "source_data_row": 11,
+      "Series name": "CPIAUCSL \u2014 Consumer Price Index for All Urban Consumers: All Items in U.S. City Average",
+      "Month measured": "2024-10",
+      "Published on": "2025-02-12",
+      "Value": "315.564",
+      "status": "excluded: superseded by another knowable publication"
+    },
+    {
+      "source_data_row": 12,
+      "Series name": "CPIAUCSL \u2014 Consumer Price Index for All Urban Consumers: All Items in U.S. City Average",
+      "Month measured": "2024-10",
+      "Published on": "2026-02-13",
+      "Value": "315.631",
+      "status": "selected: latest knowable numeric value"
+    },
+    {
+      "source_data_row": 13,
+      "Series name": "CPIAUCSL \u2014 Consumer Price Index for All Urban Consumers: All Items in U.S. City Average",
+      "Month measured": "2024-11",
+      "Published on": "2024-12-11",
+      "Value": "316.441",
+      "status": "excluded: superseded by another knowable publication"
+    },
+    {
+      "source_data_row": 14,
+      "Series name": "CPIAUCSL \u2014 Consumer Price Index for All Urban Consumers: All Items in U.S. City Average",
+      "Month measured": "2024-11",
+      "Published on": "2025-02-12",
+      "Value": "316.449",
+      "status": "excluded: superseded by another knowable publication"
+    },
+    {
+      "source_data_row": 15,
+      "Series name": "CPIAUCSL \u2014 Consumer Price Index for All Urban Consumers: All Items in U.S. City Average",
+      "Month measured": "2024-11",
+      "Published on": "2026-02-13",
+      "Value": "316.528",
+      "status": "selected: latest knowable numeric value"
+    },
+    {
+      "source_data_row": 16,
+      "Series name": "CPIAUCSL \u2014 Consumer Price Index for All Urban Consumers: All Items in U.S. City Average",
+      "Month measured": "2024-12",
+      "Published on": "2025-01-15",
+      "Value": "317.685",
+      "status": "excluded: superseded by another knowable publication"
+    },
+    {
+      "source_data_row": 17,
+      "Series name": "CPIAUCSL \u2014 Consumer Price Index for All Urban Consumers: All Items in U.S. City Average",
+      "Month measured": "2024-12",
+      "Published on": "2025-02-12",
+      "Value": "317.603",
+      "status": "excluded: superseded by another knowable publication"
+    },
+    {
+      "source_data_row": 18,
+      "Series name": "CPIAUCSL \u2014 Consumer Price Index for All Urban Consumers: All Items in U.S. City Average",
+      "Month measured": "2024-12",
+      "Published on": "2026-02-13",
+      "Value": "317.604",
+      "status": "selected: latest knowable numeric value"
+    },
+    {
+      "source_data_row": 19,
+      "Series name": "CPIAUCSL \u2014 Consumer Price Index for All Urban Consumers: All Items in U.S. City Average",
+      "Month measured": "2025-01",
+      "Published on": "2025-02-12",
+      "Value": "319.086",
+      "status": "excluded: superseded by another knowable publication"
+    },
+    {
+      "source_data_row": 20,
+      "Series name": "CPIAUCSL \u2014 Consumer Price Index for All Urban Consumers: All Items in U.S. City Average",
+      "Month measured": "2025-01",
+      "Published on": "2026-02-13",
+      "Value": "318.961",
+      "status": "selected: latest knowable numeric value"
+    },
+    {
+      "source_data_row": 21,
+      "Series name": "CPIAUCSL \u2014 Consumer Price Index for All Urban Consumers: All Items in U.S. City Average",
+      "Month measured": "2025-02",
+      "Published on": "2025-03-12",
+      "Value": "319.775",
+      "status": "excluded: superseded by another knowable publication"
+    },
+    {
+      "source_data_row": 22,
+      "Series name": "CPIAUCSL \u2014 Consumer Price Index for All Urban Consumers: All Items in U.S. City Average",
+      "Month measured": "2025-02",
+      "Published on": "2026-02-13",
+      "Value": "319.679",
+      "status": "selected: latest knowable numeric value"
+    },
+    {
+      "source_data_row": 23,
+      "Series name": "CPIAUCSL \u2014 Consumer Price Index for All Urban Consumers: All Items in U.S. City Average",
+      "Month measured": "2025-03",
+      "Published on": "2025-04-10",
+      "Value": "319.615",
+      "status": "excluded: superseded by another knowable publication"
+    },
+    {
+      "source_data_row": 24,
+      "Series name": "CPIAUCSL \u2014 Consumer Price Index for All Urban Consumers: All Items in U.S. City Average",
+      "Month measured": "2025-03",
+      "Published on": "2026-02-13",
+      "Value": "319.785",
+      "status": "selected: latest knowable numeric value"
+    },
+    {
+      "source_data_row": 25,
+      "Series name": "CPIAUCSL \u2014 Consumer Price Index for All Urban Consumers: All Items in U.S. City Average",
+      "Month measured": "2025-04",
+      "Published on": "2025-05-13",
+      "Value": "320.321",
+      "status": "excluded: superseded by another knowable publication"
+    },
+    {
+      "source_data_row": 26,
+      "Series name": "CPIAUCSL \u2014 Consumer Price Index for All Urban Consumers: All Items in U.S. City Average",
+      "Month measured": "2025-04",
+      "Published on": "2026-02-13",
+      "Value": "320.302",
+      "status": "selected: latest knowable numeric value"
+    },
+    {
+      "source_data_row": 27,
+      "Series name": "CPIAUCSL \u2014 Consumer Price Index for All Urban Consumers: All Items in U.S. City Average",
+      "Month measured": "2025-05",
+      "Published on": "2025-06-11",
+      "Value": "320.580",
+      "status": "excluded: superseded by another knowable publication"
+    },
+    {
+      "source_data_row": 28,
+      "Series name": "CPIAUCSL \u2014 Consumer Price Index for All Urban Consumers: All Items in U.S. City Average",
+      "Month measured": "2025-05",
+      "Published on": "2026-02-13",
+      "Value": "320.620",
+      "status": "selected: latest knowable numeric value"
+    },
+    {
+      "source_data_row": 29,
+      "Series name": "CPIAUCSL \u2014 Consumer Price Index for All Urban Consumers: All Items in U.S. City Average",
+      "Month measured": "2025-06",
+      "Published on": "2025-07-15",
+      "Value": "321.500",
+      "status": "excluded: superseded by another knowable publication"
+    },
+    {
+      "source_data_row": 30,
+      "Series name": "CPIAUCSL \u2014 Consumer Price Index for All Urban Consumers: All Items in U.S. City Average",
+      "Month measured": "2025-06",
+      "Published on": "2026-02-13",
+      "Value": "321.435",
+      "status": "selected: latest knowable numeric value"
+    },
+    {
+      "source_data_row": 31,
+      "Series name": "CPIAUCSL \u2014 Consumer Price Index for All Urban Consumers: All Items in U.S. City Average",
+      "Month measured": "2025-07",
+      "Published on": "2025-08-12",
+      "Value": "322.132",
+      "status": "excluded: superseded by another knowable publication"
+    },
+    {
+      "source_data_row": 32,
+      "Series name": "CPIAUCSL \u2014 Consumer Price Index for All Urban Consumers: All Items in U.S. City Average",
+      "Month measured": "2025-07",
+      "Published on": "2026-02-13",
+      "Value": "322.169",
+      "status": "selected: latest knowable numeric value"
+    },
+    {
+      "source_data_row": 33,
+      "Series name": "CPIAUCSL \u2014 Consumer Price Index for All Urban Consumers: All Items in U.S. City Average",
+      "Month measured": "2025-08",
+      "Published on": "2025-09-11",
+      "Value": "323.364",
+      "status": "excluded: superseded by another knowable publication"
+    },
+    {
+      "source_data_row": 34,
+      "Series name": "CPIAUCSL \u2014 Consumer Price Index for All Urban Consumers: All Items in U.S. City Average",
+      "Month measured": "2025-08",
+      "Published on": "2026-02-13",
+      "Value": "323.291",
+      "status": "selected: latest knowable numeric value"
+    },
+    {
+      "source_data_row": 35,
+      "Series name": "CPIAUCSL \u2014 Consumer Price Index for All Urban Consumers: All Items in U.S. City Average",
+      "Month measured": "2025-09",
+      "Published on": "2025-10-24",
+      "Value": "324.368",
+      "status": "excluded: superseded by another knowable publication"
+    },
+    {
+      "source_data_row": 36,
+      "Series name": "CPIAUCSL \u2014 Consumer Price Index for All Urban Consumers: All Items in U.S. City Average",
+      "Month measured": "2025-09",
+      "Published on": "2026-02-13",
+      "Value": "324.245",
+      "status": "selected: latest knowable numeric value"
+    },
+    {
+      "source_data_row": 37,
+      "Series name": "CPIAUCSL \u2014 Consumer Price Index for All Urban Consumers: All Items in U.S. City Average",
+      "Month measured": "2025-10",
+      "Published on": "2025-12-18",
+      "Value": ".",
+      "status": "retained: missing marker, not a tradable numeric value"
+    },
+    {
+      "source_data_row": 38,
+      "Series name": "CPIAUCSL \u2014 Consumer Price Index for All Urban Consumers: All Items in U.S. City Average",
+      "Month measured": "2025-11",
+      "Published on": "2025-12-18",
+      "Value": "325.031",
+      "status": "excluded: superseded by another knowable publication"
+    },
+    {
+      "source_data_row": 39,
+      "Series name": "CPIAUCSL \u2014 Consumer Price Index for All Urban Consumers: All Items in U.S. City Average",
+      "Month measured": "2025-11",
+      "Published on": "2026-02-13",
+      "Value": "325.063",
+      "status": "selected: latest knowable numeric value"
+    },
+    {
+      "source_data_row": 40,
+      "Series name": "CPIAUCSL \u2014 Consumer Price Index for All Urban Consumers: All Items in U.S. City Average",
+      "Month measured": "2025-12",
+      "Published on": "2026-01-13",
+      "Value": "326.030",
+      "status": "excluded: superseded by another knowable publication"
+    },
+    {
+      "source_data_row": 41,
+      "Series name": "CPIAUCSL \u2014 Consumer Price Index for All Urban Consumers: All Items in U.S. City Average",
+      "Month measured": "2025-12",
+      "Published on": "2026-02-13",
+      "Value": "326.031",
+      "status": "selected: latest knowable numeric value"
+    },
+    {
+      "source_data_row": 42,
+      "Series name": "CPIAUCSL \u2014 Consumer Price Index for All Urban Consumers: All Items in U.S. City Average",
+      "Month measured": "2026-01",
+      "Published on": "2026-02-13",
+      "Value": "326.588",
+      "status": "selected: latest knowable numeric value"
+    },
+    {
+      "source_data_row": 43,
+      "Series name": "CPIAUCSL \u2014 Consumer Price Index for All Urban Consumers: All Items in U.S. City Average",
+      "Month measured": "2026-02",
+      "Published on": "2026-03-11",
+      "Value": "327.460",
+      "status": "selected: latest knowable numeric value"
+    },
+    {
+      "source_data_row": 44,
+      "Series name": "CPIAUCSL \u2014 Consumer Price Index for All Urban Consumers: All Items in U.S. City Average",
+      "Month measured": "2026-03",
+      "Published on": "2026-04-10",
+      "Value": "330.293",
+      "status": "excluded: not published by cutoff"
+    },
+    {
+      "source_data_row": 45,
+      "Series name": "CPIAUCSL \u2014 Consumer Price Index for All Urban Consumers: All Items in U.S. City Average",
+      "Month measured": "2026-04",
+      "Published on": "2026-05-12",
+      "Value": "332.407",
+      "status": "excluded: not published by cutoff"
+    },
+    {
+      "source_data_row": 46,
+      "Series name": "CPIAUCSL \u2014 Consumer Price Index for All Urban Consumers: All Items in U.S. City Average",
+      "Month measured": "2026-05",
+      "Published on": "2026-06-10",
+      "Value": "333.979",
+      "status": "excluded: not published by cutoff"
+    },
+    {
+      "source_data_row": 47,
+      "Series name": "CPIAUCSL \u2014 Consumer Price Index for All Urban Consumers: All Items in U.S. City Average",
+      "Month measured": "2026-06",
+      "Published on": "2026-07-14",
+      "Value": "332.568",
+      "status": "excluded: not published by cutoff"
+    },
+    {
+      "source_data_row": 48,
+      "Series name": "CPIAUCSL \u2014 Consumer Price Index for All Urban Consumers: All Items in U.S. City Average",
+      "Month measured": "2026-07",
+      "Published on": "2026-08-12",
+      "Value": "332.813",
+      "status": "excluded: not published by cutoff"
+    },
+    {
+      "source_data_row": 49,
+      "Series name": "CPIAUCSL \u2014 Consumer Price Index for All Urban Consumers: All Items in U.S. City Average",
+      "Month measured": "2026-08",
+      "Published on": "2026-09-11",
+      "Value": "334.131",
+      "status": "excluded: not published by cutoff"
+    },
+    {
+      "source_data_row": 50,
+      "Series name": "CPIAUCSL \u2014 Consumer Price Index for All Urban Consumers: All Items in U.S. City Average",
+      "Month measured": "2026-09",
+      "Published on": "2026-10-14",
+      "Value": "336.298",
+      "status": "excluded: not published by cutoff"
+    }
+  ],
+  "purpose": "Illustrative example carried over from Lab 16; not the selected Lab 17 trade date",
+  "actual_lab17_trade_date": null
+}

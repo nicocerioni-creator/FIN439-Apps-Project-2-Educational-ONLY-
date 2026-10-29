@@ -1,0 +1,184 @@
+{
+  "downloaded_utc": "2026-10-29T21:24:50.771157+00:00",
+  "download_date": "2026-10-29",
+  "comparison_date": "2026-09-30",
+  "chart_start": "2020-01-01",
+  "last_month_table": [
+    {
+      "Series": "https://fred.stlouisfed.org/series/BAA",
+      "Known: last measured": "2026-08-01",
+      "Known: value": 6.32,
+      "Today: value for known date": 6.32,
+      "Today: last measured": "2026-09-01",
+      "Today: value": 6.47,
+      "Later observations": 1,
+      "Revised values": 0,
+      "Status": "OK"
+    },
+    {
+      "Series": "https://fred.stlouisfed.org/series/FEDFUNDS",
+      "Known: last measured": "2026-08-01",
+      "Known: value": 3.63,
+      "Today: value for known date": 3.63,
+      "Today: last measured": "2026-09-01",
+      "Today: value": 3.75,
+      "Later observations": 1,
+      "Revised values": 0,
+      "Status": "OK"
+    },
+    {
+      "Series": "https://fred.stlouisfed.org/series/DGS10",
+      "Known: last measured": "2026-09-29",
+      "Known: value": 5.26,
+      "Today: value for known date": 5.26,
+      "Today: last measured": "2026-10-28",
+      "Today: value": 5.05,
+      "Later observations": 20,
+      "Revised values": 0,
+      "Status": "OK"
+    },
+    {
+      "Series": "https://fred.stlouisfed.org/series/MORTGAGE30US",
+      "Known: last measured": "2026-09-24",
+      "Known: value": 7.03,
+      "Today: value for known date": 7.03,
+      "Today: last measured": "2026-10-29",
+      "Today: value": 7.24,
+      "Later observations": 5,
+      "Revised values": 0,
+      "Status": "OK"
+    },
+    {
+      "Series": "https://fred.stlouisfed.org/series/PAYEMS",
+      "Known: last measured": "2026-08-01",
+      "Known: value": 159075.0,
+      "Today: value for known date": 159015.0,
+      "Today: last measured": "2026-09-01",
+      "Today: value": 159044.0,
+      "Later observations": 1,
+      "Revised values": 2,
+      "Status": "OK"
+    },
+    {
+      "Series": "https://fred.stlouisfed.org/series/CPIAUCSL",
+      "Known: last measured": "2026-08-01",
+      "Known: value": 334.131,
+      "Today: value for known date": 334.131,
+      "Today: last measured": "2026-09-01",
+      "Today: value": 336.298,
+      "Later observations": 1,
+      "Revised values": 0,
+      "Status": "OK"
+    }
+  ],
+  "today_table": [
+    {
+      "Series": "https://fred.stlouisfed.org/series/BAA",
+      "Known: last measured": "2026-09-01",
+      "Known: value": 6.47,
+      "Today: value for known date": 6.47,
+      "Today: last measured": "2026-09-01",
+      "Today: value": 6.47,
+      "Later observations": 0,
+      "Revised values": 0,
+      "Status": "OK"
+    },
+    {
+      "Series": "https://fred.stlouisfed.org/series/FEDFUNDS",
+      "Known: last measured": "2026-09-01",
+      "Known: value": 3.75,
+      "Today: value for known date": 3.75,
+      "Today: last measured": "2026-09-01",
+      "Today: value": 3.75,
+      "Later observations": 0,
+      "Revised values": 0,
+      "Status": "OK"
+    },
+    {
+      "Series": "https://fred.stlouisfed.org/series/DGS10",
+      "Known: last measured": "2026-10-28",
+      "Known: value": 5.05,
+      "Today: value for known date": 5.05,
+      "Today: last measured": "2026-10-28",
+      "Today: value": 5.05,
+      "Later observations": 0,
+      "Revised values": 0,
+      "Status": "OK"
+    },
+    {
+      "Series": "https://fred.stlouisfed.org/series/MORTGAGE30US",
+      "Known: last measured": "2026-10-29",
+      "Known: value": 7.24,
+      "Today: value for known date": 7.24,
+      "Today: last measured": "2026-10-29",
+      "Today: value": 7.24,
+      "Later observations": 0,
+      "Revised values": 0,
+      "Status": "OK"
+    },
+    {
+      "Series": "https://fred.stlouisfed.org/series/PAYEMS",
+      "Known: last measured": "2026-09-01",
+      "Known: value": 159044.0,
+      "Today: value for known date": 159044.0,
+      "Today: last measured": "2026-09-01",
+      "Today: value": 159044.0,
+      "Later observations": 0,
+      "Revised values": 0,
+      "Status": "OK"
+    },
+    {
+      "Series": "https://fred.stlouisfed.org/series/CPIAUCSL",
+      "Known: last measured": "2026-09-01",
+      "Known: value": 336.298,
+      "Today: value for known date": 336.298,
+      "Today: last measured": "2026-09-01",
+      "Today: value": 336.298,
+      "Later observations": 0,
+      "Revised values": 0,
+      "Status": "OK"
+    }
+  ],
+  "three_cpi_values_checked_against_fred_page": [
+    {
+      "observation_date": "2026-07-01",
+      "CPIAUCSL": "332.813"
+    },
+    {
+      "observation_date": "2026-08-01",
+      "CPIAUCSL": "334.131"
+    },
+    {
+      "observation_date": "2026-09-01",
+      "CPIAUCSL": "336.298"
+    }
+  ],
+  "fred_page": "https://fred.stlouisfed.org/series/CPIAUCSL",
+  "returned_headers": {
+    "https://fred.stlouisfed.org/graph/fredgraph.csv?id=BAA": "observation_date,BAA",
+    "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=BAA&vintage_date=2026-10-29": "observation_date,BAA_20261029",
+    "https://fred.stlouisfed.org/graph/fredgraph.csv?id=FEDFUNDS": "observation_date,FEDFUNDS",
+    "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=FEDFUNDS&vintage_date=2026-10-29": "observation_date,FEDFUNDS_20261029",
+    "https://fred.stlouisfed.org/graph/fredgraph.csv?id=DGS10": "observation_date,DGS10",
+    "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=DGS10&vintage_date=2026-10-29": "observation_date,DGS10_20261029",
+    "https://fred.stlouisfed.org/graph/fredgraph.csv?id=MORTGAGE30US": "observation_date,MORTGAGE30US",
+    "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=MORTGAGE30US&vintage_date=2026-10-29": "observation_date,MORTGAGE30US_20261029",
+    "https://fred.stlouisfed.org/graph/fredgraph.csv?id=PAYEMS": "observation_date,PAYEMS",
+    "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=PAYEMS&vintage_date=2026-10-29": "observation_date,PAYEMS_20261028",
+    "https://fred.stlouisfed.org/graph/fredgraph.csv?id=CPIAUCSL": "observation_date,CPIAUCSL",
+    "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=CPIAUCSL&vintage_date=2026-10-29": "observation_date,CPIAUCSL_20261028",
+    "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=BAA&vintage_date=2026-09-30": "observation_date,BAA_20260930",
+    "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=FEDFUNDS&vintage_date=2026-09-30": "observation_date,FEDFUNDS_20260930",
+    "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=DGS10&vintage_date=2026-09-30": "observation_date,DGS10_20260930",
+    "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=MORTGAGE30US&vintage_date=2026-09-30": "observation_date,MORTGAGE30US_20260930",
+    "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=PAYEMS&vintage_date=2026-09-30": "observation_date,PAYEMS_20260930",
+    "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=CPIAUCSL&vintage_date=2026-09-30": "observation_date,CPIAUCSL_20260930"
+  },
+  "payems_prior_check": {
+    "vintage": "2025-01-15",
+    "measured_month": "2024-12",
+    "as_known": 159536,
+    "current_same_month": 158316,
+    "numeric_revisions_since_start_2020": 59
+  }
+}

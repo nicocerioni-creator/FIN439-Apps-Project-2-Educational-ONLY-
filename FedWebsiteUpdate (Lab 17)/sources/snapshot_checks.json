@@ -1,0 +1,32 @@
+[
+  {
+    "month_measured": "2024-07",
+    "vintage_date": "2024-08-14",
+    "expected_value": "313.534",
+    "snapshot_value": "313.534",
+    "automated_check": "matched",
+    "student_personal_check": "confirmed correct and approved by Nicolas in chat",
+    "student_check_confirmed_on": "2026-10-29",
+    "student_observed_value": "313.534"
+  },
+  {
+    "month_measured": "2024-07",
+    "vintage_date": "2025-02-12",
+    "expected_value": "313.566",
+    "snapshot_value": "313.566",
+    "automated_check": "matched",
+    "student_personal_check": "confirmed correct and approved by Nicolas in chat",
+    "student_check_confirmed_on": "2026-10-29",
+    "student_observed_value": "313.566"
+  },
+  {
+    "month_measured": "2026-09",
+    "vintage_date": "2026-10-14",
+    "expected_value": "336.298",
+    "snapshot_value": "336.298",
+    "automated_check": "matched",
+    "student_personal_check": "confirmed correct and approved by Nicolas in chat",
+    "student_check_confirmed_on": "2026-10-29",
+    "student_observed_value": "336.298"
+  }
+]

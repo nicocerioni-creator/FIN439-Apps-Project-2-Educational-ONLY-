@@ -1,0 +1,13 @@
+# Local credentials must never be published.
+.env
+.env.*
+*.env
+.streamlit/secrets.toml
+API Keys/
+
+# Generated local files.
+__pycache__/
+*.py[cod]
+.DS_Store
+.venv/
+venv/

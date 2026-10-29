@@ -1,0 +1,74 @@
+{
+  "series_id": "CPIAUCSL",
+  "retrieved_utc": "2026-10-29T19:31:30.169233+00:00",
+  "publication_cutoff": "2026-10-29",
+  "observation_start": "2024-07-01",
+  "observation_end": "2026-09-30",
+  "units": "Index 1982-1984=100",
+  "seasonal_adjustment": "Seasonally Adjusted",
+  "table_rows": 50,
+  "numeric_rows": 49,
+  "numeric_measured_months": 26,
+  "calendar_months": 27,
+  "missing_measured_months": [
+    "2025-10"
+  ],
+  "distinct_publication_dates": 26,
+  "method": "All initial/revised observation versions from output_type=1, independently reconciled to output_type=3; not repetitions of unchanged values at each series-wide snapshot. Published on = realtime_start, ALFRED first availability of this version.",
+  "endpoint": "https://api.stlouisfed.org/fred/series/observations",
+  "public_parameters": {
+    "series_id": "CPIAUCSL",
+    "file_type": "json",
+    "observation_start": "2024-07-01",
+    "observation_end": "2026-09-30",
+    "realtime_start": "1776-07-04",
+    "realtime_end": "2026-10-29",
+    "output_type": 1,
+    "limit": 100000
+  },
+  "checks": [
+    "Complete returned count",
+    "Unique month/publication/value records",
+    "26 measured months with numeric values",
+    "Publication dates not after cutoff",
+    "Every initial/revised tuple matches output_type=3",
+    "Publication dates belong to series vintage dates",
+    "Three independent vintage snapshot requests matched",
+    "All 50 Excel records reconcile to CSV; dates/numbers typed; missing marker preserved",
+    "Excel preview visually reviewed",
+    "No credential in any saved output, including XLSX package"
+  ],
+  "csv_sha256": "d6ceab1522deb5eea0ea036c4982a55c9edbe16e01ace996d1a7628e85aa5919",
+  "asof_panels": {
+    "2026-03-31": {
+      "cutoff_rule": "published <= decision date",
+      "input_rows": 50,
+      "future_rows_excluded": 7,
+      "superseded_rows_excluded": 23,
+      "numeric_values": 19,
+      "missing_markers": 1,
+      "same_day_numeric_values": 0,
+      "independent_official_snapshot_match": true,
+      "latest_known_month": "2026-02",
+      "latest_known_publication": "2026-03-11",
+      "latest_known_value": "327.460",
+      "checks": [
+        "Earlier decision excludes later revision",
+        "Inclusive same-day boundary",
+        "Prior-day-only excludes same-day publications",
+        "Empty early snapshot",
+        "Missing latest version never replaced by older numeric value",
+        "Excel and CSV records match",
+        "Excel preview reviewed"
+      ],
+      "purpose": "Illustrative Lab 16 date only; actual Lab 17 date not yet chosen"
+    }
+  },
+  "student_review": {
+    "status": "dates and values confirmed correct and approved",
+    "confirmed_by": "Nicolas",
+    "confirmed_on": "2026-10-29",
+    "basis": "User statement in chat",
+    "actual_lab17_trade_date": null
+  }
+}
