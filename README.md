@@ -1,4 +1,4 @@
-# Part-2-of-FIN439
+# FIN439-Apps-Project-2-Educational-ONLY-
 
 ## Educational and research use only
 
