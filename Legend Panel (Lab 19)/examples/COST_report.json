@@ -1,0 +1,943 @@
+{
+  "ticker": "COST",
+  "company": "COSTCO WHOLESALE CORP /NEW",
+  "cik": "0000909832",
+  "retrieved_at": "2026-11-17T18:09:24.483599+00:00",
+  "facts_url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000909832.json",
+  "facts_sha256": "b675ced201b27ede2b0d26ca6fd873befe96a1afa9679339a2d0b964187dcdff",
+  "rows": [
+    {
+      "fiscal_year_end": "2022-08-28",
+      "metrics": {
+        "revenue": {
+          "value": 226954000000,
+          "display": "226,954,000,000",
+          "tag": "us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax",
+          "sources": [
+            {
+              "accession": "0000909832-24-000049",
+              "filed": "2024-10-09",
+              "start": "2021-08-30",
+              "end": "2022-08-28",
+              "url": "https://www.sec.gov/Archives/edgar/data/909832/000090983224000049/0000909832-24-000049-index.html"
+            }
+          ]
+        },
+        "net_income": {
+          "value": 5844000000,
+          "display": "5,844,000,000",
+          "tag": "us-gaap:NetIncomeLoss",
+          "sources": [
+            {
+              "accession": "0000909832-24-000049",
+              "filed": "2024-10-09",
+              "start": "2021-08-30",
+              "end": "2022-08-28",
+              "url": "https://www.sec.gov/Archives/edgar/data/909832/000090983224000049/0000909832-24-000049-index.html"
+            }
+          ]
+        },
+        "operating_cash_flow": {
+          "value": 7392000000,
+          "display": "7,392,000,000",
+          "tag": "us-gaap:NetCashProvidedByUsedInOperatingActivities",
+          "sources": [
+            {
+              "accession": "0000909832-24-000049",
+              "filed": "2024-10-09",
+              "start": "2021-08-30",
+              "end": "2022-08-28",
+              "url": "https://www.sec.gov/Archives/edgar/data/909832/000090983224000049/0000909832-24-000049-index.html"
+            }
+          ]
+        },
+        "capital_spending": {
+          "value": 3891000000,
+          "display": "3,891,000,000",
+          "tag": "us-gaap:PaymentsToAcquirePropertyPlantAndEquipment",
+          "sources": [
+            {
+              "accession": "0000909832-24-000049",
+              "filed": "2024-10-09",
+              "start": "2021-08-30",
+              "end": "2022-08-28",
+              "url": "https://www.sec.gov/Archives/edgar/data/909832/000090983224000049/0000909832-24-000049-index.html"
+            }
+          ]
+        },
+        "equity": {
+          "value": 20642000000,
+          "display": "20,642,000,000",
+          "tag": "us-gaap:StockholdersEquity",
+          "sources": [
+            {
+              "accession": "0000909832-23-000042",
+              "filed": "2023-10-11",
+              "start": null,
+              "end": "2022-08-28",
+              "url": "https://www.sec.gov/Archives/edgar/data/909832/000090983223000042/0000909832-23-000042-index.html"
+            }
+          ]
+        },
+        "liabilities": {
+          "value": 43519000000,
+          "display": "43,519,000,000",
+          "tag": "us-gaap:Liabilities",
+          "sources": [
+            {
+              "accession": "0000909832-23-000042",
+              "filed": "2023-10-11",
+              "start": null,
+              "end": "2022-08-28",
+              "url": "https://www.sec.gov/Archives/edgar/data/909832/000090983223000042/0000909832-23-000042-index.html"
+            }
+          ]
+        },
+        "research_and_development": {
+          "value": null,
+          "display": "not found",
+          "tag": "not found",
+          "sources": []
+        },
+        "owner_earnings": {
+          "value": 3501000000,
+          "display": "3,501,000,000",
+          "tag": "us-gaap:NetCashProvidedByUsedInOperatingActivities \u2212 us-gaap:PaymentsToAcquirePropertyPlantAndEquipment",
+          "sources": [
+            {
+              "accession": "0000909832-24-000049",
+              "filed": "2024-10-09",
+              "start": "2021-08-30",
+              "end": "2022-08-28",
+              "url": "https://www.sec.gov/Archives/edgar/data/909832/000090983224000049/0000909832-24-000049-index.html"
+            },
+            {
+              "accession": "0000909832-24-000049",
+              "filed": "2024-10-09",
+              "start": "2021-08-30",
+              "end": "2022-08-28",
+              "url": "https://www.sec.gov/Archives/edgar/data/909832/000090983224000049/0000909832-24-000049-index.html"
+            }
+          ]
+        },
+        "roe": {
+          "value": 28.31,
+          "display": "28.31%",
+          "tag": "us-gaap:NetIncomeLoss \u00f7 us-gaap:StockholdersEquity",
+          "sources": [
+            {
+              "accession": "0000909832-24-000049",
+              "filed": "2024-10-09",
+              "start": "2021-08-30",
+              "end": "2022-08-28",
+              "url": "https://www.sec.gov/Archives/edgar/data/909832/000090983224000049/0000909832-24-000049-index.html"
+            },
+            {
+              "accession": "0000909832-23-000042",
+              "filed": "2023-10-11",
+              "start": null,
+              "end": "2022-08-28",
+              "url": "https://www.sec.gov/Archives/edgar/data/909832/000090983223000042/0000909832-23-000042-index.html"
+            }
+          ]
+        },
+        "liabilities_to_equity": {
+          "value": 2.1082743920162774,
+          "display": "2.1083",
+          "tag": "us-gaap:Liabilities \u00f7 us-gaap:StockholdersEquity",
+          "sources": [
+            {
+              "accession": "0000909832-23-000042",
+              "filed": "2023-10-11",
+              "start": null,
+              "end": "2022-08-28",
+              "url": "https://www.sec.gov/Archives/edgar/data/909832/000090983223000042/0000909832-23-000042-index.html"
+            },
+            {
+              "accession": "0000909832-23-000042",
+              "filed": "2023-10-11",
+              "start": null,
+              "end": "2022-08-28",
+              "url": "https://www.sec.gov/Archives/edgar/data/909832/000090983223000042/0000909832-23-000042-index.html"
+            }
+          ]
+        },
+        "rd_intensity": {
+          "value": null,
+          "display": "not known",
+          "tag": "ResearchAndDevelopmentExpense / revenue",
+          "sources": [
+            {
+              "accession": "0000909832-24-000049",
+              "filed": "2024-10-09",
+              "start": "2021-08-30",
+              "end": "2022-08-28",
+              "url": "https://www.sec.gov/Archives/edgar/data/909832/000090983224000049/0000909832-24-000049-index.html"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "fiscal_year_end": "2023-09-03",
+      "metrics": {
+        "revenue": {
+          "value": 242290000000,
+          "display": "242,290,000,000",
+          "tag": "us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax",
+          "sources": [
+            {
+              "accession": "0000909832-25-000101",
+              "filed": "2025-10-08",
+              "start": "2022-08-29",
+              "end": "2023-09-03",
+              "url": "https://www.sec.gov/Archives/edgar/data/909832/000090983225000101/0000909832-25-000101-index.html"
+            }
+          ]
+        },
+        "net_income": {
+          "value": 6292000000,
+          "display": "6,292,000,000",
+          "tag": "us-gaap:NetIncomeLoss",
+          "sources": [
+            {
+              "accession": "0000909832-25-000101",
+              "filed": "2025-10-08",
+              "start": "2022-08-29",
+              "end": "2023-09-03",
+              "url": "https://www.sec.gov/Archives/edgar/data/909832/000090983225000101/0000909832-25-000101-index.html"
+            }
+          ]
+        },
+        "operating_cash_flow": {
+          "value": 11068000000,
+          "display": "11,068,000,000",
+          "tag": "us-gaap:NetCashProvidedByUsedInOperatingActivities",
+          "sources": [
+            {
+              "accession": "0000909832-25-000101",
+              "filed": "2025-10-08",
+              "start": "2022-08-29",
+              "end": "2023-09-03",
+              "url": "https://www.sec.gov/Archives/edgar/data/909832/000090983225000101/0000909832-25-000101-index.html"
+            }
+          ]
+        },
+        "capital_spending": {
+          "value": 4323000000,
+          "display": "4,323,000,000",
+          "tag": "us-gaap:PaymentsToAcquirePropertyPlantAndEquipment",
+          "sources": [
+            {
+              "accession": "0000909832-25-000101",
+              "filed": "2025-10-08",
+              "start": "2022-08-29",
+              "end": "2023-09-03",
+              "url": "https://www.sec.gov/Archives/edgar/data/909832/000090983225000101/0000909832-25-000101-index.html"
+            }
+          ]
+        },
+        "equity": {
+          "value": 25058000000,
+          "display": "25,058,000,000",
+          "tag": "us-gaap:StockholdersEquity",
+          "sources": [
+            {
+              "accession": "0000909832-26-000093",
+              "filed": "2026-10-07",
+              "start": null,
+              "end": "2023-09-03",
+              "url": "https://www.sec.gov/Archives/edgar/data/909832/000090983226000093/0000909832-26-000093-index.html"
+            }
+          ]
+        },
+        "liabilities": {
+          "value": 43936000000,
+          "display": "43,936,000,000",
+          "tag": "us-gaap:Liabilities",
+          "sources": [
+            {
+              "accession": "0000909832-24-000049",
+              "filed": "2024-10-09",
+              "start": null,
+              "end": "2023-09-03",
+              "url": "https://www.sec.gov/Archives/edgar/data/909832/000090983224000049/0000909832-24-000049-index.html"
+            }
+          ]
+        },
+        "research_and_development": {
+          "value": null,
+          "display": "not found",
+          "tag": "not found",
+          "sources": []
+        },
+        "owner_earnings": {
+          "value": 6745000000,
+          "display": "6,745,000,000",
+          "tag": "us-gaap:NetCashProvidedByUsedInOperatingActivities \u2212 us-gaap:PaymentsToAcquirePropertyPlantAndEquipment",
+          "sources": [
+            {
+              "accession": "0000909832-25-000101",
+              "filed": "2025-10-08",
+              "start": "2022-08-29",
+              "end": "2023-09-03",
+              "url": "https://www.sec.gov/Archives/edgar/data/909832/000090983225000101/0000909832-25-000101-index.html"
+            },
+            {
+              "accession": "0000909832-25-000101",
+              "filed": "2025-10-08",
+              "start": "2022-08-29",
+              "end": "2023-09-03",
+              "url": "https://www.sec.gov/Archives/edgar/data/909832/000090983225000101/0000909832-25-000101-index.html"
+            }
+          ]
+        },
+        "roe": {
+          "value": 25.11,
+          "display": "25.11%",
+          "tag": "us-gaap:NetIncomeLoss \u00f7 us-gaap:StockholdersEquity",
+          "sources": [
+            {
+              "accession": "0000909832-25-000101",
+              "filed": "2025-10-08",
+              "start": "2022-08-29",
+              "end": "2023-09-03",
+              "url": "https://www.sec.gov/Archives/edgar/data/909832/000090983225000101/0000909832-25-000101-index.html"
+            },
+            {
+              "accession": "0000909832-26-000093",
+              "filed": "2026-10-07",
+              "start": null,
+              "end": "2023-09-03",
+              "url": "https://www.sec.gov/Archives/edgar/data/909832/000090983226000093/0000909832-26-000093-index.html"
+            }
+          ]
+        },
+        "liabilities_to_equity": {
+          "value": 1.7533721765504031,
+          "display": "1.7534",
+          "tag": "us-gaap:Liabilities \u00f7 us-gaap:StockholdersEquity",
+          "sources": [
+            {
+              "accession": "0000909832-24-000049",
+              "filed": "2024-10-09",
+              "start": null,
+              "end": "2023-09-03",
+              "url": "https://www.sec.gov/Archives/edgar/data/909832/000090983224000049/0000909832-24-000049-index.html"
+            },
+            {
+              "accession": "0000909832-26-000093",
+              "filed": "2026-10-07",
+              "start": null,
+              "end": "2023-09-03",
+              "url": "https://www.sec.gov/Archives/edgar/data/909832/000090983226000093/0000909832-26-000093-index.html"
+            }
+          ]
+        },
+        "rd_intensity": {
+          "value": null,
+          "display": "not known",
+          "tag": "ResearchAndDevelopmentExpense / revenue",
+          "sources": [
+            {
+              "accession": "0000909832-25-000101",
+              "filed": "2025-10-08",
+              "start": "2022-08-29",
+              "end": "2023-09-03",
+              "url": "https://www.sec.gov/Archives/edgar/data/909832/000090983225000101/0000909832-25-000101-index.html"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "fiscal_year_end": "2024-09-01",
+      "metrics": {
+        "revenue": {
+          "value": 254453000000,
+          "display": "254,453,000,000",
+          "tag": "us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax",
+          "sources": [
+            {
+              "accession": "0000909832-26-000093",
+              "filed": "2026-10-07",
+              "start": "2023-09-04",
+              "end": "2024-09-01",
+              "url": "https://www.sec.gov/Archives/edgar/data/909832/000090983226000093/0000909832-26-000093-index.html"
+            }
+          ]
+        },
+        "net_income": {
+          "value": 7367000000,
+          "display": "7,367,000,000",
+          "tag": "us-gaap:NetIncomeLoss",
+          "sources": [
+            {
+              "accession": "0000909832-26-000093",
+              "filed": "2026-10-07",
+              "start": "2023-09-04",
+              "end": "2024-09-01",
+              "url": "https://www.sec.gov/Archives/edgar/data/909832/000090983226000093/0000909832-26-000093-index.html"
+            }
+          ]
+        },
+        "operating_cash_flow": {
+          "value": 11339000000,
+          "display": "11,339,000,000",
+          "tag": "us-gaap:NetCashProvidedByUsedInOperatingActivities",
+          "sources": [
+            {
+              "accession": "0000909832-26-000093",
+              "filed": "2026-10-07",
+              "start": "2023-09-04",
+              "end": "2024-09-01",
+              "url": "https://www.sec.gov/Archives/edgar/data/909832/000090983226000093/0000909832-26-000093-index.html"
+            }
+          ]
+        },
+        "capital_spending": {
+          "value": 4710000000,
+          "display": "4,710,000,000",
+          "tag": "us-gaap:PaymentsToAcquirePropertyPlantAndEquipment",
+          "sources": [
+            {
+              "accession": "0000909832-26-000093",
+              "filed": "2026-10-07",
+              "start": "2023-09-04",
+              "end": "2024-09-01",
+              "url": "https://www.sec.gov/Archives/edgar/data/909832/000090983226000093/0000909832-26-000093-index.html"
+            }
+          ]
+        },
+        "equity": {
+          "value": 23622000000,
+          "display": "23,622,000,000",
+          "tag": "us-gaap:StockholdersEquity",
+          "sources": [
+            {
+              "accession": "0000909832-26-000093",
+              "filed": "2026-10-07",
+              "start": null,
+              "end": "2024-09-01",
+              "url": "https://www.sec.gov/Archives/edgar/data/909832/000090983226000093/0000909832-26-000093-index.html"
+            }
+          ]
+        },
+        "liabilities": {
+          "value": 46209000000,
+          "display": "46,209,000,000",
+          "tag": "us-gaap:Liabilities",
+          "sources": [
+            {
+              "accession": "0000909832-25-000101",
+              "filed": "2025-10-08",
+              "start": null,
+              "end": "2024-09-01",
+              "url": "https://www.sec.gov/Archives/edgar/data/909832/000090983225000101/0000909832-25-000101-index.html"
+            }
+          ]
+        },
+        "research_and_development": {
+          "value": null,
+          "display": "not found",
+          "tag": "not found",
+          "sources": []
+        },
+        "owner_earnings": {
+          "value": 6629000000,
+          "display": "6,629,000,000",
+          "tag": "us-gaap:NetCashProvidedByUsedInOperatingActivities \u2212 us-gaap:PaymentsToAcquirePropertyPlantAndEquipment",
+          "sources": [
+            {
+              "accession": "0000909832-26-000093",
+              "filed": "2026-10-07",
+              "start": "2023-09-04",
+              "end": "2024-09-01",
+              "url": "https://www.sec.gov/Archives/edgar/data/909832/000090983226000093/0000909832-26-000093-index.html"
+            },
+            {
+              "accession": "0000909832-26-000093",
+              "filed": "2026-10-07",
+              "start": "2023-09-04",
+              "end": "2024-09-01",
+              "url": "https://www.sec.gov/Archives/edgar/data/909832/000090983226000093/0000909832-26-000093-index.html"
+            }
+          ]
+        },
+        "roe": {
+          "value": 31.19,
+          "display": "31.19%",
+          "tag": "us-gaap:NetIncomeLoss \u00f7 us-gaap:StockholdersEquity",
+          "sources": [
+            {
+              "accession": "0000909832-26-000093",
+              "filed": "2026-10-07",
+              "start": "2023-09-04",
+              "end": "2024-09-01",
+              "url": "https://www.sec.gov/Archives/edgar/data/909832/000090983226000093/0000909832-26-000093-index.html"
+            },
+            {
+              "accession": "0000909832-26-000093",
+              "filed": "2026-10-07",
+              "start": null,
+              "end": "2024-09-01",
+              "url": "https://www.sec.gov/Archives/edgar/data/909832/000090983226000093/0000909832-26-000093-index.html"
+            }
+          ]
+        },
+        "liabilities_to_equity": {
+          "value": 1.9561849123698247,
+          "display": "1.9562",
+          "tag": "us-gaap:Liabilities \u00f7 us-gaap:StockholdersEquity",
+          "sources": [
+            {
+              "accession": "0000909832-25-000101",
+              "filed": "2025-10-08",
+              "start": null,
+              "end": "2024-09-01",
+              "url": "https://www.sec.gov/Archives/edgar/data/909832/000090983225000101/0000909832-25-000101-index.html"
+            },
+            {
+              "accession": "0000909832-26-000093",
+              "filed": "2026-10-07",
+              "start": null,
+              "end": "2024-09-01",
+              "url": "https://www.sec.gov/Archives/edgar/data/909832/000090983226000093/0000909832-26-000093-index.html"
+            }
+          ]
+        },
+        "rd_intensity": {
+          "value": null,
+          "display": "not known",
+          "tag": "ResearchAndDevelopmentExpense / revenue",
+          "sources": [
+            {
+              "accession": "0000909832-26-000093",
+              "filed": "2026-10-07",
+              "start": "2023-09-04",
+              "end": "2024-09-01",
+              "url": "https://www.sec.gov/Archives/edgar/data/909832/000090983226000093/0000909832-26-000093-index.html"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "fiscal_year_end": "2025-08-31",
+      "metrics": {
+        "revenue": {
+          "value": 275235000000,
+          "display": "275,235,000,000",
+          "tag": "us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax",
+          "sources": [
+            {
+              "accession": "0000909832-26-000093",
+              "filed": "2026-10-07",
+              "start": "2024-09-02",
+              "end": "2025-08-31",
+              "url": "https://www.sec.gov/Archives/edgar/data/909832/000090983226000093/0000909832-26-000093-index.html"
+            }
+          ]
+        },
+        "net_income": {
+          "value": 8099000000,
+          "display": "8,099,000,000",
+          "tag": "us-gaap:NetIncomeLoss",
+          "sources": [
+            {
+              "accession": "0000909832-26-000093",
+              "filed": "2026-10-07",
+              "start": "2024-09-02",
+              "end": "2025-08-31",
+              "url": "https://www.sec.gov/Archives/edgar/data/909832/000090983226000093/0000909832-26-000093-index.html"
+            }
+          ]
+        },
+        "operating_cash_flow": {
+          "value": 13335000000,
+          "display": "13,335,000,000",
+          "tag": "us-gaap:NetCashProvidedByUsedInOperatingActivities",
+          "sources": [
+            {
+              "accession": "0000909832-26-000093",
+              "filed": "2026-10-07",
+              "start": "2024-09-02",
+              "end": "2025-08-31",
+              "url": "https://www.sec.gov/Archives/edgar/data/909832/000090983226000093/0000909832-26-000093-index.html"
+            }
+          ]
+        },
+        "capital_spending": {
+          "value": 5498000000,
+          "display": "5,498,000,000",
+          "tag": "us-gaap:PaymentsToAcquirePropertyPlantAndEquipment",
+          "sources": [
+            {
+              "accession": "0000909832-26-000093",
+              "filed": "2026-10-07",
+              "start": "2024-09-02",
+              "end": "2025-08-31",
+              "url": "https://www.sec.gov/Archives/edgar/data/909832/000090983226000093/0000909832-26-000093-index.html"
+            }
+          ]
+        },
+        "equity": {
+          "value": 29164000000,
+          "display": "29,164,000,000",
+          "tag": "us-gaap:StockholdersEquity",
+          "sources": [
+            {
+              "accession": "0000909832-26-000093",
+              "filed": "2026-10-07",
+              "start": null,
+              "end": "2025-08-31",
+              "url": "https://www.sec.gov/Archives/edgar/data/909832/000090983226000093/0000909832-26-000093-index.html"
+            }
+          ]
+        },
+        "liabilities": {
+          "value": 47935000000,
+          "display": "47,935,000,000",
+          "tag": "us-gaap:Liabilities",
+          "sources": [
+            {
+              "accession": "0000909832-26-000093",
+              "filed": "2026-10-07",
+              "start": null,
+              "end": "2025-08-31",
+              "url": "https://www.sec.gov/Archives/edgar/data/909832/000090983226000093/0000909832-26-000093-index.html"
+            }
+          ]
+        },
+        "research_and_development": {
+          "value": null,
+          "display": "not found",
+          "tag": "not found",
+          "sources": []
+        },
+        "owner_earnings": {
+          "value": 7837000000,
+          "display": "7,837,000,000",
+          "tag": "us-gaap:NetCashProvidedByUsedInOperatingActivities \u2212 us-gaap:PaymentsToAcquirePropertyPlantAndEquipment",
+          "sources": [
+            {
+              "accession": "0000909832-26-000093",
+              "filed": "2026-10-07",
+              "start": "2024-09-02",
+              "end": "2025-08-31",
+              "url": "https://www.sec.gov/Archives/edgar/data/909832/000090983226000093/0000909832-26-000093-index.html"
+            },
+            {
+              "accession": "0000909832-26-000093",
+              "filed": "2026-10-07",
+              "start": "2024-09-02",
+              "end": "2025-08-31",
+              "url": "https://www.sec.gov/Archives/edgar/data/909832/000090983226000093/0000909832-26-000093-index.html"
+            }
+          ]
+        },
+        "roe": {
+          "value": 27.77,
+          "display": "27.77%",
+          "tag": "us-gaap:NetIncomeLoss \u00f7 us-gaap:StockholdersEquity",
+          "sources": [
+            {
+              "accession": "0000909832-26-000093",
+              "filed": "2026-10-07",
+              "start": "2024-09-02",
+              "end": "2025-08-31",
+              "url": "https://www.sec.gov/Archives/edgar/data/909832/000090983226000093/0000909832-26-000093-index.html"
+            },
+            {
+              "accession": "0000909832-26-000093",
+              "filed": "2026-10-07",
+              "start": null,
+              "end": "2025-08-31",
+              "url": "https://www.sec.gov/Archives/edgar/data/909832/000090983226000093/0000909832-26-000093-index.html"
+            }
+          ]
+        },
+        "liabilities_to_equity": {
+          "value": 1.6436359895761898,
+          "display": "1.6436",
+          "tag": "us-gaap:Liabilities \u00f7 us-gaap:StockholdersEquity",
+          "sources": [
+            {
+              "accession": "0000909832-26-000093",
+              "filed": "2026-10-07",
+              "start": null,
+              "end": "2025-08-31",
+              "url": "https://www.sec.gov/Archives/edgar/data/909832/000090983226000093/0000909832-26-000093-index.html"
+            },
+            {
+              "accession": "0000909832-26-000093",
+              "filed": "2026-10-07",
+              "start": null,
+              "end": "2025-08-31",
+              "url": "https://www.sec.gov/Archives/edgar/data/909832/000090983226000093/0000909832-26-000093-index.html"
+            }
+          ]
+        },
+        "rd_intensity": {
+          "value": null,
+          "display": "not known",
+          "tag": "ResearchAndDevelopmentExpense / revenue",
+          "sources": [
+            {
+              "accession": "0000909832-26-000093",
+              "filed": "2026-10-07",
+              "start": "2024-09-02",
+              "end": "2025-08-31",
+              "url": "https://www.sec.gov/Archives/edgar/data/909832/000090983226000093/0000909832-26-000093-index.html"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "fiscal_year_end": "2026-08-30",
+      "metrics": {
+        "revenue": {
+          "value": 303154000000,
+          "display": "303,154,000,000",
+          "tag": "us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax",
+          "sources": [
+            {
+              "accession": "0000909832-26-000093",
+              "filed": "2026-10-07",
+              "start": "2025-09-01",
+              "end": "2026-08-30",
+              "url": "https://www.sec.gov/Archives/edgar/data/909832/000090983226000093/0000909832-26-000093-index.html"
+            }
+          ]
+        },
+        "net_income": {
+          "value": 9226000000,
+          "display": "9,226,000,000",
+          "tag": "us-gaap:NetIncomeLoss",
+          "sources": [
+            {
+              "accession": "0000909832-26-000093",
+              "filed": "2026-10-07",
+              "start": "2025-09-01",
+              "end": "2026-08-30",
+              "url": "https://www.sec.gov/Archives/edgar/data/909832/000090983226000093/0000909832-26-000093-index.html"
+            }
+          ]
+        },
+        "operating_cash_flow": {
+          "value": 15817000000,
+          "display": "15,817,000,000",
+          "tag": "us-gaap:NetCashProvidedByUsedInOperatingActivities",
+          "sources": [
+            {
+              "accession": "0000909832-26-000093",
+              "filed": "2026-10-07",
+              "start": "2025-09-01",
+              "end": "2026-08-30",
+              "url": "https://www.sec.gov/Archives/edgar/data/909832/000090983226000093/0000909832-26-000093-index.html"
+            }
+          ]
+        },
+        "capital_spending": {
+          "value": 6435000000,
+          "display": "6,435,000,000",
+          "tag": "us-gaap:PaymentsToAcquirePropertyPlantAndEquipment",
+          "sources": [
+            {
+              "accession": "0000909832-26-000093",
+              "filed": "2026-10-07",
+              "start": "2025-09-01",
+              "end": "2026-08-30",
+              "url": "https://www.sec.gov/Archives/edgar/data/909832/000090983226000093/0000909832-26-000093-index.html"
+            }
+          ]
+        },
+        "equity": {
+          "value": 35803000000,
+          "display": "35,803,000,000",
+          "tag": "us-gaap:StockholdersEquity",
+          "sources": [
+            {
+              "accession": "0000909832-26-000093",
+              "filed": "2026-10-07",
+              "start": null,
+              "end": "2026-08-30",
+              "url": "https://www.sec.gov/Archives/edgar/data/909832/000090983226000093/0000909832-26-000093-index.html"
+            }
+          ]
+        },
+        "liabilities": {
+          "value": 53242000000,
+          "display": "53,242,000,000",
+          "tag": "us-gaap:Liabilities",
+          "sources": [
+            {
+              "accession": "0000909832-26-000093",
+              "filed": "2026-10-07",
+              "start": null,
+              "end": "2026-08-30",
+              "url": "https://www.sec.gov/Archives/edgar/data/909832/000090983226000093/0000909832-26-000093-index.html"
+            }
+          ]
+        },
+        "research_and_development": {
+          "value": null,
+          "display": "not found",
+          "tag": "not found",
+          "sources": []
+        },
+        "owner_earnings": {
+          "value": 9382000000,
+          "display": "9,382,000,000",
+          "tag": "us-gaap:NetCashProvidedByUsedInOperatingActivities \u2212 us-gaap:PaymentsToAcquirePropertyPlantAndEquipment",
+          "sources": [
+            {
+              "accession": "0000909832-26-000093",
+              "filed": "2026-10-07",
+              "start": "2025-09-01",
+              "end": "2026-08-30",
+              "url": "https://www.sec.gov/Archives/edgar/data/909832/000090983226000093/0000909832-26-000093-index.html"
+            },
+            {
+              "accession": "0000909832-26-000093",
+              "filed": "2026-10-07",
+              "start": "2025-09-01",
+              "end": "2026-08-30",
+              "url": "https://www.sec.gov/Archives/edgar/data/909832/000090983226000093/0000909832-26-000093-index.html"
+            }
+          ]
+        },
+        "roe": {
+          "value": 25.77,
+          "display": "25.77%",
+          "tag": "us-gaap:NetIncomeLoss \u00f7 us-gaap:StockholdersEquity",
+          "sources": [
+            {
+              "accession": "0000909832-26-000093",
+              "filed": "2026-10-07",
+              "start": "2025-09-01",
+              "end": "2026-08-30",
+              "url": "https://www.sec.gov/Archives/edgar/data/909832/000090983226000093/0000909832-26-000093-index.html"
+            },
+            {
+              "accession": "0000909832-26-000093",
+              "filed": "2026-10-07",
+              "start": null,
+              "end": "2026-08-30",
+              "url": "https://www.sec.gov/Archives/edgar/data/909832/000090983226000093/0000909832-26-000093-index.html"
+            }
+          ]
+        },
+        "liabilities_to_equity": {
+          "value": 1.4870820880931765,
+          "display": "1.4871",
+          "tag": "us-gaap:Liabilities \u00f7 us-gaap:StockholdersEquity",
+          "sources": [
+            {
+              "accession": "0000909832-26-000093",
+              "filed": "2026-10-07",
+              "start": null,
+              "end": "2026-08-30",
+              "url": "https://www.sec.gov/Archives/edgar/data/909832/000090983226000093/0000909832-26-000093-index.html"
+            },
+            {
+              "accession": "0000909832-26-000093",
+              "filed": "2026-10-07",
+              "start": null,
+              "end": "2026-08-30",
+              "url": "https://www.sec.gov/Archives/edgar/data/909832/000090983226000093/0000909832-26-000093-index.html"
+            }
+          ]
+        },
+        "rd_intensity": {
+          "value": null,
+          "display": "not known",
+          "tag": "ResearchAndDevelopmentExpense / revenue",
+          "sources": [
+            {
+              "accession": "0000909832-26-000093",
+              "filed": "2026-10-07",
+              "start": "2025-09-01",
+              "end": "2026-08-30",
+              "url": "https://www.sec.gov/Archives/edgar/data/909832/000090983226000093/0000909832-26-000093-index.html"
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "checks": {
+    "ROE at least 15% every year": "pass",
+    "Owner earnings positive every year": "pass",
+    "Owner earnings grew first year to last": "pass"
+  },
+  "evidence": [
+    {
+      "form": "10-K",
+      "filed": "2026-10-07",
+      "report_date": "2026-08-30",
+      "url": "https://www.sec.gov/Archives/edgar/data/909832/000090983226000093/cost-20260830.htm",
+      "passages": [
+        "Certain statements contained in this document constitute forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995. For these purposes, forward-looking statements are statements that address activities, events, conditions or developments that the Company expects or anticipates may occur in the future and may relate to such matters as net sales growth, changes in comparable sales, cannibalization of existing locations by new openings, price or fee changes, earnings performance, earnings per share, stock-based compensation expense, warehouse openings and closures, capital spending, the effect of adopting certain accounting standards, future financial reporting, financing, margins, return on invested capital, investments in technology, strategic direction, expense controls, membership fee changes, signups, and renewal rates, shopping frequency, litigation, including self-insured general liability claims, attainment of sustainability goals, and the demand for our products and services. In some cases, forward-looking statements can be identified because they contain words such as \u201canticipate,\u201d \u201cbelieve,\u201d \u201ccontinue,\u201d \u201ccould,\u201d \u201cestimate,\u201d \u201cexpect,\u201d \u201cintend,\u201d \u201clikely,\u201d \u201cmay,\u201d \u201cmight,\u201d \u201cplan,\u201d \u201cpotential,\u201d \u201cpredict,\u201d \u201cproject,\u201d \u201cseek,\u201d \u201cshould,\u201d \u201ctarget,\u201d \u201cwill,\u201d \u201cwould,\u201d or similar expressions and the negatives of those terms. Such forward-looking statements involve risks and uncertainties that may cause actual events, results, or performance to differ materially from those indicated by such statements, including, without limitation, the factors set forth in the section titled \u201cItem 1A-Risk Factors\u201d, and other factors noted in the section titled \u201cItem 7-Management's Discussion and Analysis of Financial Condition and Results of Operations\u201d and in the consolidated financial statements and related notes in Item 8 of this Report. Forward-looking statements speak only as of the date they are made, and we do not undertake to update these statements, except as required by law.",
+        "We operate membership warehouses and e-commerce sites based on the concept that offering low prices on a limited selection of nationally-branded and private-label products in a wide range of categories will produce high sales volumes and rapid inventory turnover. When combined with the operating efficiencies achieved by volume purchasing, efficient distribution and reduced handling of merchandise in no-frills, self-service warehouse facilities, these volumes and turnover enable us to operate profitably at significantly lower gross margins (net sales less merchandise costs) than most other retailers. We often sell inventory before we are required to pay for it, even while taking advantage of early payment discounts.",
+        "We buy most of our merchandise directly from suppliers and route it to cross-docking consolidation points (depots) or directly to our warehouses. Our depots receive large shipments from suppliers and quickly",
+        "ship these goods to warehouses. This process creates freight volume and handling efficiencies, lowering costs associated with traditional multiple-step distribution channels. Our e-commerce operations ship merchandise through our depots and logistics operations, as well as through drop-ship and other delivery arrangements with our suppliers.",
+        "Our operating hours are shorter than many other retailers, and due to other efficiencies inherent in a warehouse club operation, we believe labor costs are lower relative to the volume of sales. In the U.S., we offer exclusive shopping hours for our Executive members and our gasoline operations generally have extended hours. Merchandise is generally stored on racks above the sales floor and displayed on pallets containing large quantities, reducing labor required. In general, with variations by country, our warehouses accept certain credit cards, including Costco co-branded cards, debit cards, cash and checks, Executive member reward certificates, co-brand cardholder rebates, and our proprietary stored-value card (shop card).",
+        "We have direct relationships with many producers of brand-name merchandise. We do not obtain a significant portion of merchandise from any one supplier. When sources of supply become unavailable, we seek alternative sources or items. We pursue diversification in our supply-chain and seek to expand in-country production. We also purchase and manufacture private-label merchandise, where quality and member demand are high and the value to our members is significant.",
+        "We believe that our warehouses are among the most productive in the retail industry, owing largely to the commitment and efficiency of our employees. We seek to provide them not merely with employment but careers. Many attributes of our business contribute to this objective. The more significant include: competitive compensation and benefits; a commitment to employee development and promoting from within; and a target ratio of at least 50% of our base being full-time employees. These attributes contribute to what we consider, especially for the industry, a high retention rate. In 2026, in the U.S. and Canada that rate was approximately 94% for employees who have been with us for at least one year.",
+        "The commitment to \u201cTake Care of Our Employees\u201d includes promoting an inclusive and respectful workplace. We strive for an environment where all employees feel that they belong, are accepted, included, respected, and supported. We demonstrate leadership commitment to inclusion through consistent communication, employee development and education, support of diversity and inclusion within the organization, community involvement, and supplier inclusion. Listening to our employees is one of the ways Costco takes care of its workforce. Costco continues its efforts to develop future leaders, including through our supervisor in training (SIT) programs in the U.S. and Canada. In 2026, over 8,100 hourly employees completed the six-week course."
+      ],
+      "sha256": "61bf4fbf6c3c973160f575500803616916a3ea2ea6b6b4b3f352bba48da291c7"
+    },
+    {
+      "form": "10-Q",
+      "filed": "2026-06-03",
+      "report_date": "2026-05-10",
+      "url": "https://www.sec.gov/Archives/edgar/data/909832/000090983226000051/cost-20260510.htm",
+      "passages": [
+        "Costco Wholesale Corporation (Costco or the Company), a Washington corporation, and its subsidiaries operate membership warehouses based on the concept that offering members low prices on a limited selection of nationally-branded and private-label products in a wide range of merchandise categories will produce high sales volumes and rapid inventory turnover. At May 10, 2026, Costco operated 928 warehouses worldwide: 637 in the United States (U.S.) located in 47 states, Washington, D.C., and Puerto Rico, 115 in Canada, 42 in Mexico, 37 in Japan, 29 in the United Kingdom (U.K.), 20 in Korea, 15 in Australia, 14 in Taiwan, seven in China, five in Spain, three in France, two in Sweden and one each in Iceland and New Zealand. The Company operates e-commerce sites in the U.S., Canada, the U.K., Mexico, Korea, Taiwan, Japan, and Australia.",
+        "The Company's stock repurchase program is conducted under a $4,000 authorization by the Board of Directors, which expires in January 2027. At May 10, 2026, the remaining amount available under the program was $1,359. The following table summarizes the repurchase activity:",
+        "These amounts may differ from the accompanying condensed consolidated statements of cash flows due to changes in unsettled stock repurchases at the end of each quarter. Purchases are made from time to time, as conditions warrant, potentially including the open market, block purchases and pursuant to plans under SEC Rule 10b5-1.",
+        "The Company is involved in many claims, proceedings and litigations arising from its business and property ownership. In accordance with accounting guidance, the Company establishes an accrual for legal proceedings if and when those matters present loss contingencies that are both probable and reasonably estimable. There may be actual losses in excess of amounts accrued. The Company monitors those matters for developments that would affect the likelihood of a loss (considering where applicable indemnification arrangements concerning suppliers and insurers) and the accrued amount, if any, thereof, and adjusts the amount as appropriate. The Company has recorded an immaterial accrual with respect to",
+        "Certain statements contained in this document constitute forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995. For these purposes, forward-looking statements are statements that address activities, events, conditions or developments that the Company expects or anticipates may occur in the future and may relate to such matters as net sales growth, changes in comparable sales, cannibalization of existing locations by new openings, price or fee changes, earnings performance, earnings per share, stock-based compensation expense, warehouse openings and closures, capital spending, the effect of adopting certain accounting standards, future financial reporting, financing, margins, return on invested capital, investments in technology, strategic direction, expense controls, membership fee changes, signups, and renewal rates, shopping frequency, litigation, attainment of sustainability goals, and the demand for our products and services. In some cases, forward-looking statements can be identified because they contain words such as \u201canticipate,\u201d \u201cbelieve,\u201d \u201ccontinue,\u201d \u201ccould,\u201d \u201cestimate,\u201d \u201cexpect,\u201d \u201cintend,\u201d \u201clikely,\u201d \u201cmay,\u201d \u201cmight,\u201d \u201cplan,\u201d \u201cpotential,\u201d \u201cpredict,\u201d \u201cproject,\u201d \u201cseek,\u201d \u201cshould,\u201d \u201ctarget,\u201d \u201cwill,\u201d \u201cwould,\u201d or similar expressions and the negatives of those terms. Such forward-looking statements involve risks and uncertainties that may cause actual events, results or performance to differ materially from those indicated by such statements. These risks and uncertainties include, but are not limited to, domestic and international economic conditions, including exchange rates, inflation or deflation, the effects of competition and regulation, uncertainties in the financial markets, consumer and small business spending patterns and debt levels, breaches of security or privacy of member or business information, conditions affecting the acquisition, development, ownership or use of real estate, capital spending, actions of vendors, rising costs associated with employees (generally including health-care costs and wages), workforce interruptions, energy and certain commodities, geopolitical conditions (including tariffs and global conflicts), the ability to maintain effective internal control over financial reporting, regulatory and other impacts related to environmental and social matters, public-health related factors, and other risks identified from time to time in the Company's public statements and reports filed with the Securities and Exchange Commission. Forward-looking statements speak only as of the date they are made, and the Company does not undertake to update these statements, except as required by law.",
+        "We operate membership warehouses and e-commerce sites based on the concept that offering low prices on a limited selection of nationally-branded and private-label products in a wide range of categories will produce high sales volumes and rapid inventory turnover. When combined with the operating efficiencies achieved by volume purchasing, efficient distribution and reduced handling of merchandise in no-frills, self-service warehouse facilities, these volumes and turnover enable us to operate profitably at significantly lower gross margins (net sales less merchandise costs) than most other retailers. We often sell inventory before we are required to pay for it, even while taking advantage of early payment discounts.",
+        "installation) and other businesses (e-commerce, business centers, travel, and other). E-commerce and business center sales are allocated to the appropriate merchandise categories in the Net Sales discussion. The 2% reward associated with Executive membership reduces net sales and is allocated to the category in which the reward is generated (core merchandise categories, warehouse ancillary, and other businesses). Comparable sales is defined as net sales from warehouses and digitally-enabled businesses operating for more than one year, including remodels, relocations and expansions. Starting this year, we changed our e-commerce comparable sales metric to digitally-enabled comparable sales. This metric represents sales delivered to members that are initiated through a digital device, whether fulfilled through a warehouse or a distribution center, as well as Costco Travel. The comparable sales measures are intended as supplemental information and are not a substitute for net sales presented in accordance with U.S. GAAP and should be reviewed in conjunction with results reported in accordance with U.S. GAAP. Comparable sales growth is achieved through increasing shopping frequency from new and existing members and the amount they spend on each visit (average ticket). Sales comparisons can also be particularly influenced by certain factors that are beyond our control: fluctuations in currency exchange rates (with respect to our international operations) and inflation or deflation in the cost of gasoline and associated competitive conditions. The higher our comparable sales exclusive of these items, the more we can leverage our selling, general and administrative (SG&A) expenses, reducing them as a percentage of sales and enhancing profitability. Generating comparable sales growth is foremost a question of making available the right merchandise at the right prices, a skill that we believe we have repeatedly demonstrated over the long-term. Another substantial factor in net sales growth is the health of the economies in which we do business, including the effects of inflation or deflation, especially the United States. Net sales growth and gross margins are also impacted by competition, which is vigorous and widespread, across a wide range of global, national and regional wholesalers and retailers, including those with e-commerce operations. While we cannot control or reliably predict general economic health or changes in competition, we believe that we have been successful historically in adapting our business to these changes, such as through adjustments to our pricing and merchandise mix, including increasing the penetration of our private-label items, and through online offerings.",
+        "Our philosophy is to provide our members with quality goods and services at competitive prices. We do not focus in the short-term on maximizing prices charged, but instead seek to maintain what we believe is a perception among our members of our \u201cpricing authority\u201d \u2013 consistently providing the most competitive values. Our net sales and gross margin are influenced in part by our merchandising and pricing strategies in response to cost increases. Those strategies can include, but are not limited to, working with our suppliers to share in absorbing cost increases, earlier-than-usual purchasing and in greater volumes, sourcing in the countries and regions where items are sold, as well as passing cost increases on to our members. Our investments in merchandise pricing may include reducing prices on merchandise to drive sales or meet competition and holding prices steady despite cost increases instead of passing the increases on to our members, negatively impacting gross margin and gross margin as a percentage of net sales (gross margin percentage) in the near term. Our digitally-enabled business, domestically and internationally, has a lower gross-margin percentage than our warehouse operations."
+      ],
+      "sha256": "39eadd46eedd3774deb3f26cd69f152a71549f40c483487001bbe36f0bb6f63e"
+    }
+  ],
+  "warnings": [],
+  "snapshot_id": "f8c25f0e65f3a674441b9faefa6f6b02347f4eec183d4931497b5042bc566e73",
+  "summary": {
+    "revenue_cagr": {
+      "value": 7.505668815961191,
+      "display": "7.51%",
+      "formula": "(last revenue / first revenue)^(1/4) - 1",
+      "first_end": "2022-08-28",
+      "last_end": "2026-08-30"
+    }
+  },
+  "panel_checks": {
+    "buffett": {
+      "ROE at least 15% every year": "pass",
+      "Owner earnings positive every year": "pass",
+      "Owner earnings grew first year to last": "pass"
+    },
+    "wood": {
+      "Revenue CAGR at least 5%": "pass",
+      "Latest R&D / revenue at least 5%": "not known"
+    },
+    "burry": {
+      "OCF at least net income every year": "pass",
+      "Latest liabilities / equity at most 2": "pass"
+    }
+  },
+  "printed_thresholds": [
+    "15%",
+    "5%",
+    "2"
+  ],
+  "rules_version": "lab19-v1"
+}

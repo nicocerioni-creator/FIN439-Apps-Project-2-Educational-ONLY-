@@ -1,0 +1,36 @@
+{
+  "decision": "own the business",
+  "rationale": "A majority of valid memos favors this business-quality verdict. This transparent voting rule summarizes judgments; it does not measure investment confidence.",
+  "trust": "Trust it provisionally as a structured research aid. The memos disagree, exposing different priorities. Some checks remain not known. All share the same SEC evidence and may share the same AI blind spots. No price or valuation is assessed, and the number audit cannot prove that a claim is true.",
+  "responsibility": "The final investment verdict and judgment belong to the investor, not the panel.",
+  "verdicts": {
+    "buffett": "own the business",
+    "wood": "watch it",
+    "burry": "own the business"
+  },
+  "audits": {
+    "buffett": {
+      "flags": [],
+      "unknown_citations": [],
+      "snapshot_match": true,
+      "decision_valid": true,
+      "decision": "own the business"
+    },
+    "wood": {
+      "flags": [],
+      "unknown_citations": [],
+      "snapshot_match": true,
+      "decision_valid": true,
+      "decision": "watch it"
+    },
+    "burry": {
+      "flags": [],
+      "unknown_citations": [],
+      "snapshot_match": true,
+      "decision_valid": true,
+      "decision": "own the business"
+    }
+  },
+  "unprinted_number_flag": false,
+  "audit_valid": true
+}
